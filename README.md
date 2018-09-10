@@ -28,7 +28,7 @@ Duet’s prototype: [Link](https://duetpaircomp.github.io/)
 
 ***README:***  
 *1. Use Google Chrome for better experience.*  
-*2. Some datasets are provided in the “Datasets” folder for trying out the system.*
+*2. Some datasets are provided in the “[Datasets](https://github.com/DuetPairComp/supplemental/tree/master/Datasets)” folder for trying out the system.*
 
 ---
 
