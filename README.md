@@ -49,13 +49,13 @@ We used [SPSS](https://www.ibm.com/analytics/spss-statistics-software) to model 
 It is the code of the interface we used for asking 10 subjects to relabel 150 marginal cases. You need Python 3 and [Flask](http://flask.pocoo.org/) to run the interface. To run the code, go to the directory using the
 console if you are using a Mac and enter *“python server.py”*. For those who have difficulties running the tool, we provide the screenshots of the labelling tool as follows:
 
-<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel1.png" width="500"/>
-<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel2.png" width="500"/>
-<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel3.png" width="500"/>
-<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel4.png" width="500"/>
-<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel5.png" width="500"/>
-<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel6.png" width="500"/>
-<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel7.png" width="500"/>
+<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel1.png" width="550"/>
+<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel2.png" width="550"/>
+<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel3.png" width="550"/>
+<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel4.png" width="550"/>
+<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel5.png" width="550"/>
+<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel6.png" width="550"/>
+<img src="https://s3.us-east-2.amazonaws.com/github-duet/relabel7.png" width="550"/>
 
 4. [Data Collected From Relabelling](https://github.com/DuetPairComp/supplemental/tree/master/Logistic%20Regression/Data%20Collected%20From%20Relabelling)
 
